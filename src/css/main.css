@@ -1,0 +1,7 @@
+.breed-select {
+  margin-bottom: 15px;
+}
+.cat-card {
+  display: flex;
+  gap: 15px;
+}
